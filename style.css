@@ -1,0 +1,104 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 75px;
+}
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 25px;
+  margin-bottom: 60px;
+}
+h4 {
+  font-size: 23px;
+  font-weight: 200;
+  margin-bottom: 25px;
+}
+h5 {
+  font-size: 35px;
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+.flexible-container {
+  display: flex;
+  margin-bottom: 170px;
+  align-items: center;
+  justify-content: center;
+}
+.half-width {
+  width: 50%;
+  margin-left: 7%;
+  margin-right: 5%;
+}
+#top-margin {
+  margin-top: 11%;
+}
+.half-width img {
+  width: 100%;
+  margin-top: 15%;
+}
+#image-size {
+  width: 23%;
+}
+.link-button {
+  text-decoration: none;
+  background-color: orangered;
+  color: white;
+  font-weight: 900;
+  padding: 20px 50px;
+  border-radius: 50px;
+}
+.about-me {
+  background-image: url(images/shapes/7.png);
+  background-repeat: round;
+}
+.only-text {
+  text-align: center;
+  margin: 1% 26%;
+}
+.flexible-container2 {
+  display: flex;
+  margin: 70px 120px;
+  gap: 40px;
+  align-items: center;
+  justify-content: center;
+}
+.recipie-box {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 20px 7px;
+  padding: 30px 30px 40px 30px;
+  border-radius: 50px;
+}
+.recipie-box img {
+  width: 100%;
+  height: 400px;
+}
+.flexible-container3 {
+  display: flex;
+  margin: 70px 120px;
+  gap: 250px;
+  align-items: center;
+  justify-content: center;
+}
+.flexible-container3 {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 20px 7px;
+  margin-top: 150px;
+  margin-bottom: 150px;
+  border-radius: 25px;
+}
+footer {
+  text-align: center;
+  background-color: black;
+  padding-top: 30px;
+  padding-bottom: 90px;
+}
+.orange-color {
+  color: orange;
+}
+.ash-color {
+  color: grey;
+}
+.white-color {
+  color: white;
+}
